@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "Boss_ball.png",
+	"frame": {"x":3,"y":3,"w":342,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":75,"w":342,"h":324},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_canon1.png",
+	"frame": {"x":349,"y":3,"w":72,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":412,"y":324,"w":72,"h":56},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_canon2.png",
+	"frame": {"x":349,"y":177,"w":52,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":315,"y":368,"w":52,"h":88},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_canon3.png",
+	"frame": {"x":247,"y":419,"w":66,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":346,"w":66,"h":100},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_char.png",
+	"frame": {"x":349,"y":79,"w":54,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":187,"w":54,"h":94},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_glass.png",
+	"frame": {"x":3,"y":331,"w":114,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":157,"w":114,"h":166},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_jet_1.png",
+	"frame": {"x":247,"y":331,"w":120,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":207,"w":120,"h":84},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Boss_jet_2.png",
+	"frame": {"x":121,"y":331,"w":128,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":339,"w":128,"h":122},
+	"sourceSize": {"w":512,"h":512}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "boss@2.png",
+	"format": "RGBA8888",
+	"size": {"w":408,"h":500},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8afc18d71ba2430f5980b784d75fa7c2:29f31c4266875c9b0e8aa57a4715b8f2:db8c8e2b82fe32e43676645370a8d6e4$"
+}
+}

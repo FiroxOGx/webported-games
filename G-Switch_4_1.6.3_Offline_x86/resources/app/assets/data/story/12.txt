@@ -1,0 +1,118 @@
+#L17
+Dude, wait up!
+#L1
+???
+#R1
+Oh, it's you.
+#L17
+I've got some people I want you
+to meet. We're on a mission.
+#L17
+This is Prozon, our master tactician.
+#L15
+Hi.
+#L17
+Metallino, our fastest switcher.
+#L18
+Hey.
+#L17
+Krone...
+#L5
+...
+#L17
+He doesn't talk much...
+#L17
+...and over-enthusiastic Raider.
+#L9
+LET'S GO LET'S GO!!!
+#L17
+We're planning to get out of the 
+simulation.
+We may have found a way, 
+with the help of Mac and Max.
+#L17
+But we need all the help
+we can get.
+
+Do you want to join us?
+#R1
+I... I'm not sure...
+This reality is all I know.
+It's a tough decision.
+#L17
+Think about it.
+I'll come find you again.
+#R1
+I will.
+
+My name is Zac, by the way.
+#L17
+Awesome, your memory is
+improving!
+
+You're gradually awakening.
+#R1
+I guess so...
+#L17
+See you, Zac.
+#R1
+Bye.
+#R13
+...
+#R13
+Nice little chat you had there.
+#L1
+!!!
+#R13
+Attempting to leave the simulation,
+though likely impossible, is 
+highly dangerous.
+#R13
+Not to mention it could jeopardize
+our mission.
+You need to understand that
+this is for the good of everyone.
+#L1
+...
+#R13
+I see you are skeptical.
+You must trust me.
+I only want what is best for you.
+#L1
+Then tell me who you are.
+#R13
+...
+#R13
+I'm you.
+#R13
+Well, a digital version of you.
+#L1
+What?!!
+
+How is that even possible?!
+#R13
+It's true.
+
+Who better to help you than yourself?
+#L1
+...
+#L1
+Do the others also hear...
+their digital copies?
+#R13
+No, I talk to all of them.
+#L1
+Why you, or me... then?
+#R13
+Because this was all your idea, Zac.
+#L1
+!!!
+#R13
+I know this is a lot to take in.
+
+I will let you contemplate on the
+idea for a while.
+#R13
+Until we meet again...
+#L1
+...

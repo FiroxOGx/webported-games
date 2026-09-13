@@ -1,0 +1,28 @@
+#L11
+Please report, MAAK-1006.
+Bzzzzzt-bzzt...
+
+Have you encountered the glitch?
+#R03
+Negative, DJAK-2105.
+
+However, we have found a secret
+path at the end of the next level.
+#R03
+We believe that path leads
+to the glitch.
+#L11
+Interesting.
+
+We must inform the others at once.
+#R03
+Agreed.
+
+Bzzzzzt-bzzt...
+#R6
+Let's go, quickly.
+
+We need to get out and
+resume our duties on the ship.
+#L01
+...

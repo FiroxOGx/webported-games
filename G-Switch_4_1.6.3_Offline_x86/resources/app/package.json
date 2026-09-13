@@ -1,0 +1,14 @@
+{
+  "name": "g-switch-4-offline",
+  "version": "1.0.0",
+  "description": "G-Switch 4 Offline Electron Wrapper",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-packager . \"G-Switch 4\" --platform=win32 --arch=x64 --out=dist --overwrite --ignore=\"^/dist($|/)\""
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}

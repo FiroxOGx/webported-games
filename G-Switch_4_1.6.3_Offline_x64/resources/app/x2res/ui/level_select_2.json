@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "level_7.png",
+	"frame": {"x":3,"y":229,"w":1192,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1192,"h":222},
+	"sourceSize": {"w":1192,"h":222}
+},
+{
+	"filename": "level_8.png",
+	"frame": {"x":3,"y":3,"w":1192,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1192,"h":222},
+	"sourceSize": {"w":1192,"h":222}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "level_select_2@2.png",
+	"format": "RGBA8888",
+	"size": {"w":1198,"h":454},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9a13b50ca2b28fc03e5f8bde8893dac:210d6835321fdee821fad08c1844decf:65bf0112f5a7da55ab4d9cf15668488f$"
+}
+}

@@ -1,0 +1,29 @@
+#R7
+Oh, look who's here. Zac, is it?
+
+My brother Dragin told me
+about you.
+#L1
+...
+#R7
+Don't tell me you're really thinking
+of "leaving the simulation"?
+
+What a load of nonsense.
+#R7
+Tell him, Cyron.
+#R16
+Ridiculous.
+#R7
+Exactly.
+#L1
+OK...
+#R7
+Don't think too much Zac, alright?
+You'll drive yourself insane.
+
+See ya!
+#R16
+Ridiculous.
+#L1
+...

@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "button_backspace.png",
+	"frame": {"x":1339,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_backspace_HL.png",
+	"frame": {"x":1227,"y":147,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_backspace_gamepad.png",
+	"frame": {"x":1227,"y":147,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_backspace_gamepad_HL.png",
+	"frame": {"x":1339,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_enter.png",
+	"frame": {"x":663,"y":75,"w":180,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":180,"h":68},
+	"sourceSize": {"w":192,"h":80}
+},
+{
+	"filename": "button_enter_HL.png",
+	"frame": {"x":663,"y":3,"w":180,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":180,"h":68},
+	"sourceSize": {"w":192,"h":80}
+},
+{
+	"filename": "button_enter_gamepad.png",
+	"frame": {"x":663,"y":3,"w":180,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":180,"h":68},
+	"sourceSize": {"w":192,"h":80}
+},
+{
+	"filename": "button_enter_gamepad_HL.png",
+	"frame": {"x":663,"y":75,"w":180,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":180,"h":68},
+	"sourceSize": {"w":192,"h":80}
+},
+{
+	"filename": "button_normal.png",
+	"frame": {"x":1391,"y":147,"w":112,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":112,"h":68},
+	"sourceSize": {"w":124,"h":80}
+},
+{
+	"filename": "button_normal_HL.png",
+	"frame": {"x":1339,"y":75,"w":112,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":112,"h":68},
+	"sourceSize": {"w":124,"h":80}
+},
+{
+	"filename": "button_number.png",
+	"frame": {"x":1555,"y":3,"w":112,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":112,"h":48},
+	"sourceSize": {"w":124,"h":60}
+},
+{
+	"filename": "button_number_HL.png",
+	"frame": {"x":1503,"y":3,"w":112,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":112,"h":48},
+	"sourceSize": {"w":124,"h":60}
+},
+{
+	"filename": "button_shift.png",
+	"frame": {"x":1175,"y":75,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_HL.png",
+	"frame": {"x":1175,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_caps.png",
+	"frame": {"x":1011,"y":75,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_caps_HL.png",
+	"frame": {"x":1011,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_caps_hold.png",
+	"frame": {"x":847,"y":75,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_caps_hold_HL.png",
+	"frame": {"x":847,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_gamepad.png",
+	"frame": {"x":1175,"y":3,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_shift_gamepad_HL.png",
+	"frame": {"x":1175,"y":75,"w":160,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":160,"h":68},
+	"sourceSize": {"w":172,"h":80}
+},
+{
+	"filename": "button_space.png",
+	"frame": {"x":3,"y":75,"w":656,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":656,"h":68},
+	"sourceSize": {"w":668,"h":80}
+},
+{
+	"filename": "button_space_4_3.png",
+	"frame": {"x":615,"y":147,"w":608,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":608,"h":68},
+	"sourceSize": {"w":620,"h":80}
+},
+{
+	"filename": "button_space_4_3_HL.png",
+	"frame": {"x":3,"y":147,"w":608,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":608,"h":68},
+	"sourceSize": {"w":620,"h":80}
+},
+{
+	"filename": "button_space_HL.png",
+	"frame": {"x":3,"y":3,"w":656,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":656,"h":68},
+	"sourceSize": {"w":668,"h":80}
+},
+{
+	"filename": "keyboard_bg_shadow.png",
+	"frame": {"x":1455,"y":75,"w":2,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":14},
+	"sourceSize": {"w":2,"h":14}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "mobile_keyboard@2.png",
+	"format": "RGBA8888",
+	"size": {"w":1606,"h":218},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aba64122d4af2dadfae715b7090bbb41:4694bccb9220b5d63061fa13c6340e36:26f79ba5c34718cc8164c53d1e2a497b$"
+}
+}

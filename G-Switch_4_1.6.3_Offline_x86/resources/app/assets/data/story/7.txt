@@ -1,0 +1,16 @@
+#L01
+Uhm, hello?
+#R02
+Oh, hi...
+#L01
+Who are you?
+#R02
+Me? I... I don't know...
+#L01
+Oh...
+#R02
+Sorry, I have to run.
+#L01
+Wait, why?
+#L01
+...
